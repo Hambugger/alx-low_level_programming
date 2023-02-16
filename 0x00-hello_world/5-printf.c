@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-printf("Life is beautiful,\n"
-       "But my program is a piece of art,\n");
+	printf("Life is beautiful,\n"
+			"But my proram is a work of art,\n");
 return (0);
 }
