@@ -6,6 +6,6 @@
 int main(void)
 {
 	printf("Life is beautiful,\n"
-			"But my program is a piece of art,\n");
+			"But the outcome is a piece of art,\n");
 return (0);
 }
