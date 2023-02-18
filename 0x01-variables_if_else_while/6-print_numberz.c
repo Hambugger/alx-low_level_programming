@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - Entry point
  * Description: Numberz
@@ -8,13 +7,14 @@
 
 int main(void)
 {
-	int i;
+	int c;
 
-	for (i = 0; i < 10; i++)
-	{
-		putchar(i + '0');
-	}
+	c = 0;
+	while
+		(c < 10) {
+			putchar(c + '0');
+			c++
+		}
 	putchar('\n');
-
 	return (0);
 }
