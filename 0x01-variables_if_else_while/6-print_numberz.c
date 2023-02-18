@@ -1,20 +1,20 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
- * Description: Numberz
- * Result: 0
+ * Description: numberz
+ * Return: 0
  */
 
 int main(void)
 {
-	int c;
+	int i;
 
-	c = 0;
-	while
-		(c < 10) {
-			putchar(c + '0');
-			c++
-		}
+	for (i = 0; i < 10; i++)
+	{
+		putchar(i + '0');
+	}
 	putchar('\n');
+
 	return (0);
 }
