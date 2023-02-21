@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * Print_alphabet - Entry point
+ * print_alphabet - Entry point
  * Description - Lowercase alphabet
  * Return: void
  */
 
-void Print_alphabet(void)
+void print_alphabet(void)
 {
 	char c;
 
@@ -14,5 +14,5 @@ void Print_alphabet(void)
 	{
 	_putchar(c);
 	}
-	_putchar('\'n);
+	_putchar('\n');
 }
