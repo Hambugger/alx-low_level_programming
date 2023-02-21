@@ -3,7 +3,7 @@
 /**
  * print_alphabet_10x - Entry point
  * Description: Alphabet
- * Result: void
+ * Return: void
  */
 
 void print_alphabet_10x(void)
